@@ -1,9 +1,9 @@
 <!-- ======================= HEADER BANNER ======================= -->
 <div align="center">
 
-<a href="https://github.com/sendyland">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:06b6d4&height=200&section=header&text=Sendy%20Maulana&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20%26%20Mobile%20Developer&descAlignY=58&descSize=18" alt="header" />
-</a>
+# Hi there, I'm Sendy Maulana 👋
+
+### Full-Stack Web & Mobile Developer · Bandung 🇮🇩
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
@@ -85,19 +85,6 @@ const sendy = {
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sendyland&theme=tokyonight&hide_border=true&background=0D1117&ring=06b6d4&fire=4f46e5&currStreakLabel=06b6d4" alt="streak" />
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=sendyland&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" alt="trophies" />
-
-</div>
-
-<!-- ======================= ACTIVITY GRAPH ======================= -->
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sendyland&bg_color=0D1117&color=06b6d4&line=4f46e5&point=ffffff&area=true&hide_border=true" alt="activity graph" />
-
 </div>
 
 <!-- ======================= CONNECT ======================= -->
@@ -106,13 +93,11 @@ const sendy = {
 <div align="center">
 
 <a href="https://author.digiwtech.com/"><img src="https://img.shields.io/badge/Website-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="website" /></a>
-<a href="mailto:ai.busdev@inacookies.co.id"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+<a href="mailto:sendymaulana54@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 <a href="https://github.com/sendyland"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
 
 <br/><br/>
 
 <i>⭐ Thanks for stopping by — let's build something great!</i>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:4f46e5&height=100&section=footer" alt="footer" />
 
 </div>
