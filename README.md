@@ -92,6 +92,7 @@ const sendy = {
 <div align="center">
 
 <a href="https://author.digiwtech.com/"><img src="https://img.shields.io/badge/Website-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="website" /></a>
+<a href="https://fastwork.id/user/sendyland"><img src="https://img.shields.io/badge/Hire%20me%20on%20Fastwork-00B14F?style=for-the-badge&logo=briefcase&logoColor=white" alt="fastwork" /></a>
 <a href="mailto:sendymaulana54@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 <a href="https://github.com/sendyland"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
 
