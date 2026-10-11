@@ -86,6 +86,28 @@ const sendy = {
 
 </div>
 
+<!-- ======================= FREELANCE / FASTWORK ======================= -->
+## 💼 Hire Me on Fastwork
+
+<div align="center">
+
+<a href="https://fastwork.id/user/sendyland">
+  <img src="https://img.shields.io/badge/Fastwork-Verified%20Seller-00B14F?style=for-the-badge&logo=verizon&logoColor=white" alt="fastwork verified" />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/⭐%20Rating-5.0%20%2F%205.0-F5A623?style=for-the-badge" alt="rating" />
+<img src="https://img.shields.io/badge/Orders-13-4f46e5?style=for-the-badge" alt="orders" />
+<img src="https://img.shields.io/badge/Customers-12-06b6d4?style=for-the-badge" alt="customers" />
+<img src="https://img.shields.io/badge/Rehired-1-8b5cf6?style=for-the-badge" alt="rehired" />
+
+<br/>
+
+<sub>Services: <b>Web Development</b> · <b>Technical Support</b> — available for freelance projects 🚀</sub>
+
+</div>
+
 <!-- ======================= CONNECT ======================= -->
 ## 🤝 Connect With Me
 
