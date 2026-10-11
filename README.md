@@ -84,6 +84,15 @@ const sendy = {
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sendyland&theme=tokyonight&hide_border=true&background=0D1117&ring=06b6d4&fire=4f46e5&currStreakLabel=06b6d4" alt="streak" />
 
+<br/><br/>
+
+<!-- Contribution Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sendyland/sendyland/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sendyland/sendyland/output/github-contribution-grid-snake.svg">
+  <img alt="Sendy's GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/sendyland/sendyland/output/github-contribution-grid-snake.svg" />
+</picture>
+
 </div>
 
 <!-- ======================= FREELANCE / FASTWORK ======================= -->
