@@ -78,8 +78,7 @@ const sendy = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sendyland&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06b6d4&icon_color=4f46e5" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sendyland&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06b6d4&langs_count=8" alt="top langs" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sendyland&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06b6d4&langs_count=10" alt="top langs" />
 
 <br/>
 
