@@ -222,3 +222,5 @@ const sendy = {
 <sub>💡 Punya ide proyek atau butuh aplikasi bisnis yang handal? Jangan ragu untuk berdiskusi!</sub>
 
 </div>
+
+<!-- Co-authored with GitHub Octocat to unlock Pair Extraordinaire badge -->
