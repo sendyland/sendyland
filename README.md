@@ -3,9 +3,9 @@
 <!-- ======================= HERO HEADER ======================= -->
 # ⚡ Sendy Maulana
 
-### Full-Stack Web & Mobile Developer · Bandung, Indonesia 🇮🇩
+### Full-Stack Web & Mobile Developer · Odoo ERP Developer · Bandung, Indonesia 🇮🇩
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=620&lines=Building+ERP%2C+POS+%26+Production+Systems;Vue.js+%E2%80%A2+Laravel+%E2%80%A2+Flutter+%E2%80%A2+Node.js;Turning+complex+business+flows+into+clean+apps+%F0%9F%9A%80;Available+for+Freelance+%26+Contract+Projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=620&lines=Odoo+ERP+%E2%80%A2+Full-Stack+Web+%26+Mobile+Developer;Building+ERP%2C+POS+%26+Production+Systems;Python+%E2%80%A2+Odoo+%E2%80%A2+Vue.js+%E2%80%A2+Laravel+%E2%80%A2+Flutter;Turning+complex+business+flows+into+clean+apps+%F0%9F%9A%80;Available+for+Freelance+%26+Contract+Projects)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sendyland&label=Profile%20Views&color=06b6d4&style=flat-square" alt="profile views" />
@@ -24,23 +24,25 @@
 ```typescript
 const sendy = {
   name: "Sendy Maulana",
-  role: "Full-Stack Web & Mobile Developer",
+  role: "Full-Stack Web, Mobile & Odoo Developer",
   location: "Bandung, Indonesia 🇮🇩",
-  specialties: ["ERP Systems", "Point of Sale (POS)", "Production Workflow", "API Integrations"],
+  specialties: ["Odoo ERP Development", "Point of Sale (POS)", "Production Workflow", "API Integrations"],
   stack: {
+    erp:      ["Odoo ERP", "Custom Addons", "QWeb Reports", "XML-RPC API"],
+    backend:  ["Python", "Laravel", "PHP", "Node.js", "Express"],
     frontend: ["Vue.js", "Tailwind CSS", "TypeScript", "JavaScript"],
     mobile:   ["Flutter", "Dart"],
-    backend:  ["Laravel", "PHP", "Node.js", "Express"],
-    database: ["MySQL", "PostgreSQL"],
+    database: ["PostgreSQL", "MySQL"],
     devops:   ["Docker", "Git", "CI/CD"],
   },
-  currentFocus: "Architecting scalable business SaaS & AI-assisted workflows",
+  currentFocus: "Architecting scalable Odoo ERP modules, business SaaS & AI-assisted workflows",
   motto: "Ship reliable systems, automate the boring stuff, iterate fast 🔁"
 };
 ```
 
+- 📦 **Odoo ERP & Business Systems**: Spesialis dalam kustomisasi modul Odoo, perancangan model data ORM, automasi alur kerja (automated actions), laporan QWeb, dan integrasi API (XML-RPC / REST).
 - 🔭 **Specialized in Business Systems**: Proven track record developing end-to-end POS, ERP, attendance sync, and manufacturing workflows.
-- ⚡ **Spreadsheet to SaaS**: Passionate about transforming tangled, manual business spreadsheets into intuitive web and mobile applications.
+- ⚡ **Spreadsheet to SaaS / ERP**: Passionate about transforming tangled, manual business spreadsheets into intuitive web and mobile applications or ERP modules.
 - 🔗 **Third-Party API Integrator**: Experienced in integrating enterprise services including accounting platforms (Accurate API), HR systems (GreatDay Sync), and WhatsApp automated gateways.
 
 ---
@@ -51,17 +53,17 @@ const sendy = {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛒 Tokilo POS Ecosystem</h3>
-      <p>Sistem Point of Sale (POS) multi-platform lengkap untuk retail dan F&B dengan operasional real-time.</p>
+      <h3>📦 Odoo ERP Modules & Customization</h3>
+      <p>Pengembangan modul kustom dan penyesuaian proses bisnis pada ekosistem Odoo ERP.</p>
       <ul>
-        <li><b>Web App:</b> Kasir & back-office reporting responsif (Vue.js & Tailwind).</li>
-        <li><b>Mobile App:</b> Kasir mobile cepat untuk tablet & smartphone (Flutter).</li>
-        <li><b>Backend & Admin:</b> Manajemen multi-outlet, stok, dan role permissions (Laravel).</li>
+        <li><b>Custom Addons & Workflow:</b> Penyesuaian ORM models, XML views/forms, approval pipeline, dan user security groups.</li>
+        <li><b>QWeb Reports:</b> Kustomisasi laporan dinamis & cetak PDF (Invoices, Quotations, Delivery Orders).</li>
+        <li><b>Server Actions & Automated Rules:</b> Otomasi trigger status, validasi data, dan notifikasi internal.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" />
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -81,16 +83,17 @@ const sendy = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📱 Inaba SuperApp & WA Gateway</h3>
-      <p>Ekosistem aplikasi enterprise terintegrasi dengan microservice pengiriman notifikasi otomatis.</p>
+      <h3>🛒 Tokilo POS Ecosystem</h3>
+      <p>Sistem Point of Sale (POS) multi-platform lengkap untuk retail dan F&B dengan operasional real-time.</p>
       <ul>
-        <li><b>Web & Mobile Client:</b> Portal akses data terpusat untuk user dan staf.</li>
-        <li><b>WhatsApp Engine:</b> Automated notifications, blast reporting, dan alert sistem via WhatsApp API.</li>
+        <li><b>Web App:</b> Kasir & back-office reporting responsif (Vue.js & Tailwind).</li>
+        <li><b>Mobile App:</b> Kasir mobile cepat untuk tablet & smartphone (Flutter).</li>
+        <li><b>Backend & Admin:</b> Manajemen multi-outlet, stok, dan role permissions (Laravel).</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -106,6 +109,35 @@ const sendy = {
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📱 Inaba SuperApp & WA Gateway</h3>
+      <p>Ekosistem aplikasi enterprise terintegrasi dengan microservice pengiriman notifikasi otomatis.</p>
+      <ul>
+        <li><b>Web & Mobile Client:</b> Portal akses data terpusat untuk user dan staf.</li>
+        <li><b>WhatsApp Engine:</b> Automated notifications, blast reporting, dan alert sistem via WhatsApp API.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔌 Odoo API & External Integration</h3>
+      <p>Integrasi dua arah antara Odoo ERP dengan aplikasi mobile, POS, web eksternal, dan platform pihak ketiga.</p>
+      <ul>
+        <li><b>XML-RPC & REST Connector:</b> Sinkronisasi master data, partner/pelanggan, sales order, dan inventory.</li>
+        <li><b>Background Sync & Cron:</b> Scheduler otomatis untuk pembaruan data berkala tanpa membebani server.</li>
+        <li><b>Multi-Platform Bridge:</b> Menghubungkan Odoo dengan POS kasir, e-commerce, atau WhatsApp alert.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/XML--RPC-API-06B6D4?style=flat-square" />
+        <img src="https://img.shields.io/badge/Odoo-Integration-714B67?style=flat-square&logo=odoo&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-Backend-3776AB?style=flat-square&logo=python&logoColor=white" />
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -116,6 +148,13 @@ const sendy = {
 <div align="center">
 
 <p>
+  <img src="https://skillicons.dev/icons?i=py,laravel,php,nodejs,express,flutter,dart&perline=7" alt="Backend, ERP and Mobile" />
+</p>
+<sub><b>Backend, ERP & Mobile:</b> Python · Odoo · Laravel · PHP · Node.js · Express · Flutter · Dart</sub>
+
+<br/><br/>
+
+<p>
   <img src="https://skillicons.dev/icons?i=vue,tailwind,js,ts,html,css&perline=6" alt="Frontend" />
 </p>
 <sub><b>Frontend:</b> Vue.js · Tailwind CSS · TypeScript · JavaScript · HTML5 · CSS3</sub>
@@ -123,16 +162,22 @@ const sendy = {
 <br/><br/>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,express,flutter,dart&perline=6" alt="Backend and Mobile" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,github,figma&perline=6" alt="Database and Tools" />
 </p>
-<sub><b>Backend & Mobile:</b> Laravel · PHP · Node.js · Express · Flutter · Dart</sub>
+<sub><b>Databases, DevOps & Tools:</b> PostgreSQL · MySQL · Docker · Git · GitHub · Figma</sub>
 
 <br/><br/>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,git,github,figma&perline=6" alt="Database and Tools" />
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white" alt="Odoo" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/QWeb%20Reports-714B67?style=flat-square" alt="QWeb" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/XML--RPC-06B6D4?style=flat-square" alt="XML-RPC" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL%20(Odoo%20ORM)-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
-<sub><b>Databases, DevOps & Design:</b> MySQL · PostgreSQL · Docker · Git · GitHub · Figma</sub>
+<sub><b>ERP & Odoo Ecosystem:</b> Custom Addons · ORM & Business Logic · QWeb Templating · XML-RPC / REST APIs</sub>
 
 </div>
 
@@ -188,7 +233,7 @@ const sendy = {
 <br/>
 
 <p>
-  <i>Layanan: <b>Web Development (Vue / Laravel)</b> · <b>Mobile Apps (Flutter)</b> · <b>Technical Support & Custom Integrations</b></i>
+  <i>Layanan: <b>Odoo ERP Development & Customization</b> · <b>Web & Mobile (Vue / Laravel / Flutter)</b> · <b>API Integrations & Automation</b></i>
 </p>
 
 </div>
