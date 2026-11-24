@@ -42,7 +42,6 @@ const sendy = {
 - 🔭 **Specialized in Business Systems**: Proven track record developing end-to-end POS, ERP, attendance sync, and manufacturing workflows.
 - ⚡ **Spreadsheet to SaaS**: Passionate about transforming tangled, manual business spreadsheets into intuitive web and mobile applications.
 - 🔗 **Third-Party API Integrator**: Experienced in integrating enterprise services including accounting platforms (Accurate API), HR systems (GreatDay Sync), and WhatsApp automated gateways.
-- 🌐 **Articles & Notes**: [author.digiwtech.com](https://author.digiwtech.com/)
 
 ---
 
@@ -201,9 +200,6 @@ const sendy = {
 
 <div align="center">
 
-<a href="https://author.digiwtech.com/">
-  <img src="https://img.shields.io/badge/Portfolio%20Website-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
-</a>
 &nbsp;
 <a href="https://fastwork.id/user/sendyland">
   <img src="https://img.shields.io/badge/Hire%20on%20Fastwork-00B14F?style=for-the-badge&logo=briefcase&logoColor=white" alt="Fastwork" />
