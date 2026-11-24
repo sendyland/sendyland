@@ -189,9 +189,6 @@ const sendy = {
 <div align="center">
 
 <a href="https://github.com/sendyland">
-  <img src="https://github-readme-stats.vercel.app/api?username=sendyland&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06b6d4&icon_color=4f46e5&text_color=e2e8f0" alt="Sendy's GitHub Stats" height="175" />
-</a>
-<a href="https://github.com/sendyland">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sendyland&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06b6d4&text_color=e2e8f0&langs_count=8" alt="Top Languages" height="175" />
 </a>
 
